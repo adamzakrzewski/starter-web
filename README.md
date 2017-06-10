@@ -13,3 +13,5 @@ Lorem ispum text
 Deployment text
 
 ## How to contribute
+
+How to contribute text
