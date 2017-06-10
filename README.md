@@ -19,3 +19,7 @@ Deployment text new
 
 How to contribute text
 How to contribute text new
+
+### Copyright
+
+2017 Adam Zakrzewski
