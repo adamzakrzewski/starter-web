@@ -4,6 +4,8 @@
 
 ## Purpose
 
+Lorem ispum text
+
 ## Deployment
 
 ## How to contribute
