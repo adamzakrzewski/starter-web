@@ -5,6 +5,7 @@
 Introduction text
 Introduction text new
 Adding a line for rebasing example
+Adding more change for feature branch
 
 ## Purpose
 
