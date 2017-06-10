@@ -19,6 +19,7 @@ Deployment text new
 
 How to contribute text
 How to contribute text new
+Please fork
 
 ### Copyright
 
