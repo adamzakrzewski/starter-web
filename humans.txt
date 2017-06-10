@@ -3,6 +3,8 @@
 
 # TEAM
 
+    Adam Zakrzewski
+
     <name> -- <role> -- <twitter>
 
 # THANKS
