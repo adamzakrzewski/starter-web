@@ -10,4 +10,6 @@ Lorem ispum text
 
 ## Deployment
 
+Deployment text
+
 ## How to contribute
