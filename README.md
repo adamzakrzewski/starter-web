@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Introduction text
+
 ## Purpose
 
 Lorem ispum text
