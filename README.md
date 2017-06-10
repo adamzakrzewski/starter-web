@@ -4,6 +4,7 @@
 
 Introduction text
 Introduction text new
+Adding a line for rebasing example
 
 ## Purpose
 
